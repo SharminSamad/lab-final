@@ -1,0 +1,38 @@
+.top_h1 {
+            width: 100%;
+            padding: 20px 100px;
+        }
+        
+        .about {
+			height: 400px;
+            width: 100%;
+            padding: 20px 100px;
+        }
+        
+        .about_info {
+            width: 60%;
+            float: left;
+        }
+        
+        .about_img {
+            width: 40%;
+            float: right;
+        }
+		.classes {
+			height: 150px;
+            width: 100%;
+            padding: 20px 100px;
+        }
+		.class_table {
+            width: 60%;
+            float: left;
+        }
+
+        .class_li {
+            width: 40%;
+            float: right;
+        }
+		.contact{
+			width: 100%;
+            padding: 20px 100px;
+		}
